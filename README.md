@@ -2,14 +2,17 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushikbaagh&label=Profile%20views&color=0e75b6&style=flat" alt="koushikbaagh" /> </p>
+<p>
+  <img src="https://visitcount.itsvg.in/api?id=koushikbaagh&label=Profile%20Views&color=2&icon=0&pretty=true" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koushikbaagh" alt="koushikbaagh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/freaky_krizz" target="blank"><img src="https://img.shields.io/twitter/follow/freaky_krizz?logo=twitter&style=for-the-badge" alt="freaky_krizz" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://koushikbaagh.github.io/](https://koushikbaagh.github.io/)
+- 👨‍💻 My Portfolio is available at [https://koushikbaagh.github.io/](https://koushikbaagh.github.io/)
 
-- 📄 Know about my experiences [bit.ly/custom_CV_Koushik](bit.ly/custom_CV_Koushik)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
