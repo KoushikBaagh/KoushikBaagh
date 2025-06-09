@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Koushik</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">Software Engineer and Open-source contributor with working experience in Open Source Chrome and Chromium-based
+projects, full-stack web development (React, Node.js), Web3 (Blockchains) and AI/ML data operations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushikbaagh&label=Profile%20views&color=0e75b6&style=flat" alt="koushikbaagh" /> </p>
 <!-- <p align="left">
