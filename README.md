@@ -13,7 +13,7 @@
 ## 💼 About Me
 
 - 🔭 Contributed to Chromium during GSoC’25  
-- 🏢 Work Exp: Machine Learning Ops @ Amazon (Sep 2024 – Jan 2025) , Web3/Browser UI @ WootzApp, Inc. & Intern @PrepInsta
+- 🏢 Work Exp: Machine Learning Ops @ Amazon, Web3/Browser UI @ WootzApp Inc. & Intern @ PrepInsta
 - 🌐 Full‑stack Web2 & Blockchain development: React, Node.js, TypeScript, WebUI, Ethereum
 - 🎓 MCA (7.33 CGPA) @ BIT Mesra, Ranchi (June 2022 – Nov 2024)
 
