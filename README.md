@@ -1,112 +1,86 @@
-<h1 align="center">Hi 👋, I'm Koushik</h1>
-<h3 align="center">Software Engineer and Open-source contributor with working experience in Open Source Chrome and Chromium-based
-projects, full-stack web development (React, Node.js), Web3 (Blockchains) and AI/ML data operations.</h3>
+<div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.15); border-radius: 16px; padding: 24px; margin: 16px;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=koushikbaagh&label=Profile%20views&color=0e75b6&style=flat" alt="koushikbaagh" /> </p>
-<!-- <p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=koushikbaagh&label=Profile%20Views&color=2&icon=0&pretty=true" />
-</p> -->
+<h1 align="center">Hi 👋, I'm Koushik Kumar Bug</h1>
+<h3 align="center">Software Engineer and Open-source contributor with working experience in Open Source Chrome and Chromium-based projects, full-stack web development (React, Node.js), Web3 (Blockchains) and AI/ML data operations.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koushikbaagh" alt="koushikbaagh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/freaky_krizz" target="blank"><img src="https://img.shields.io/twitter/follow/freaky_krizz?logo=twitter&style=for-the-badge" alt="freaky_krizz" /></a> </p>
-
-- 👨‍💻 My Portfolio is available at [https://koushikbaagh.github.io/](https://koushikbaagh.github.io/)
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/freaky_krizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="freaky_krizz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/koushik-kkb-bitmesra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/koushik-kkb-bitmesra/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/koushik_leetcode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/koushik_leetcode/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=koushikbaagh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=koushikbaagh&theme=onedark&row=1&column=3" alt="trophies" />
 </p>
 
+<hr style="border: none; height: 1px; background: rgba(255,255,255,0.2); margin: 24px 0;" />
 
+## 💼 About Me
 
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////// LANGUAGES and TOOLS ////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+- 🔭 Contributed to Chromium during GSoC’25  
+- 🏢 Work Exp: Machine Learning Ops @ Amazon (Sep 2024 – Jan 2025) , Web3/Browser UI @ WootzApp, Inc. & Intern @PrepInsta
+- 🌐 Full‑stack Web2 & Blockchain development: React, Node.js, TypeScript, WebUI, Ethereum
+- 🎓 MCA (7.33 CGPA) @ BIT Mesra, Ranchi (June 2022 – Nov 2024)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
-  <!-- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.pixabay.com/photo/2016/11/19/23/00/css3-1841590_1280.png" alt="css3" width="40" height="40"/> 
-  </a> 
-  <!-- <a href="https://d3js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> 
-  </a> -->
-  <!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <!-- <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-  </a> -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <!-- <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-  </a> -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <!-- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <!-- <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> -->
-  <!-- <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> -->
-  <!-- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> -->
-  <!-- <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
-  </a> -->
+## 🚀 Projects & Contributions
+
+- **Sonar Chromium AI Browser** *(Perplexity Hackathon, May 2025)*  
+  - Built Omnibox and context-menu AI features like "Search with Sonar" and "Context Summarization" in Chromium C++ browser.  
+  - Demo: <a href="https://youtu.be/nFhciodeQ-c" target="_blank">
+      <img src="https://img.youtube.com/vi/nFhciodeQ-c/0.jpg" alt="Sonar AI Browser Demo" style="width:95%; max-width:100px; border-radius:12px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);"/>
+    </a>
+
+- **Ethereum To Polygon Bridge contract & DApp** *(May 2025)*  
+  - Developed a cross-chain Ethereum bridge application using Solidity smart contracts, React, and Node.js to facilitate seamless ETH-to-WETH token transfers between Sepolia testnet and Polygon Amoy networks.
+  - Implemented automated oracle service with ethers.js to monitor blockchain events and execute cross-chain token minting, handling real-time transaction processing across multiple networks.
+  - Built full-stack DApp with MetaMask integration featuring smart contract deployment, event-driven architecture, and blockchain transaction monitoring with comprehensive error handling and user feedback systems.
+
+- **KoushikCoin (ERC20 Token)** *(Apr 2025)*  
+  - Deployed custom ERC20 token on Sepolia using OpenZeppelin.  
+  - Live: https://koushikcoin.surge.sh/ | Code & Txn: https://sepolia.etherscan.io/tx/0x70e6539378ed0a4b5e4d919166f9a9c94081901a99d8504f2507add881c23fa9
+
+- **PrepChat (PrepInsta)** *(Jan 2024 – Mar 2024)*  
+  - Real-time chat using WebSockets with token-based auth; improved performance by 25%.
+
+- **Konversify (BIT Alumni Chat)** *(Feb 2024 – Apr 2024)*  
+  - Scaled real-time chat + video calls for 70+ users at <50ms latency; boosted engagement by 40%.
+
+- **Residential Society Frontend** *(Jul 2024)*  
+  - React app for community management and events. Live & Code on GitHub.
+
+<hr style="border: none; height: 1px; background: rgba(255,255,255,0.2); margin: 24px 0;" />
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=flat-square&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&style=flat-square&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&style=flat-square&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=flat-square&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=flat-square&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=flat-square&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Gerrit-FA57C1?logo=gerrit&style=flat-square&logoColor=white" alt="Gerrit" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&style=flat-square&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VScode-007ACC?logo=visualstudiocode&style=flat-square&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&style=flat-square&logoColor=black" alt="Linux" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koushikbaagh&show_icons=true&locale=en&layout=compact" alt="koushikbaagh" /></p>
+<hr style="border: none; height: 1px; background: rgba(255,255,255,0.2); margin: 24px 0;" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koushikbaagh&show_icons=true&locale=en" alt="koushikbaagh" /></p>
+## 📫 Connect with Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikbaagh&" alt="koushikbaagh" /></p>
+<p align="center">
+  <a href="https://github.com/KoushikBaagh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&style=for-the-badge&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/koushik-kkb-bitmesra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/koushik_leetcode/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://koushikbaagh.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00D1B2?logo=googlechrome&style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+</div>
