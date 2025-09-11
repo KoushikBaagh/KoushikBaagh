@@ -1,21 +1,21 @@
 <div style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.15); border-radius: 16px; padding: 24px; margin: 16px;">
 
 <h1 align="center">Hi 👋, I'm Koushik Kumar Bug</h1>
-<h3 align="center">Software Engineer and Open-source contributor with working experience in Open Source Chrome and Chromium-based projects, full-stack web development (React, Node.js), Web3 (Blockchains) and AI/ML data operations.</h3>
+<h3 align="center">Software Engineer and Open-source contributor with working experience in Fintech, Building Smart Contracts (web3 - Blockchains), Open Source Chrome and Backend Development.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=koushikbaagh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://github-profile-trophy.vercel.app/?username=koushikbaagh&theme=onedark&row=1&column=3" alt="trophies" />
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=koushikbaagh&theme=onedark&row=1&column=3" alt="trophies" /> -->
 </p>
 
 <hr style="border: none; height: 1px; background: rgba(255,255,255,0.2); margin: 24px 0;" />
 
 ## 💼 About Me
 
-- 🔭 Contributed to Chromium during GSoC’25  
-- 🏢 Work Exp: Machine Learning Ops @ Amazon, Web3/Browser UI @ WootzApp Inc. & Intern @ PrepInsta
+- 📖 Published my work in perplexity's showcase page, contributed to Chromium during GSoC’25.
+- 🏢 Work Exp: Software Engineer @Transfi, Blockchain Engineer @Vosyn, Machine Learning Ops @Amazon & Backend Intern @PrepInsta
 - 🌐 Full‑stack Web2 & Blockchain development: React, Node.js, TypeScript, WebUI, Ethereum
-- 🎓 MCA (7.33 CGPA) @ BIT Mesra, Ranchi (June 2022 – Nov 2024)
+- 🎓 MCA (7.33 CGPA) @ BIT Mesra, Ranchi (June 2022 – Nov 2024), Event Co-Ordinator Head (Fine Arts Society)
 
 ## 🚀 Projects & Contributions
 
