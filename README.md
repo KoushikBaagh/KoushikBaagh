@@ -14,7 +14,6 @@
 
 - 📖 Published my work in perplexity's showcase page, contributed to Chromium during GSoC’25.
 - 🏢 Work Exp: Software Engineer @Transfi, Blockchain Engineer @Vosyn & Backend Intern @PrepInsta
-- 🌐 Full‑stack Web2 & Blockchain development: React, Node.js, TypeScript, WebUI, Ethereum
 - 🎓 MCA (7.33 CGPA) @ BIT Mesra, Ranchi (June 2022 – Nov 2024), Event Co-Ordinator Head (Fine Arts Society)
 
 ## 🚀 Projects & Contributions
